@@ -1,0 +1,37 @@
+{
+  "name": "express-jcrypt",
+  "version": "2.0.0",
+  "description": "JWE encryption for Express.js and Node.js APIs — RSA-OAEP-256 + AES-256-GCM.",
+  "keywords": [
+    "jwe",
+    "encryption",
+    "express",
+    "crypto",
+    "rsa",
+    "aes-gcm"
+  ],
+  "homepage": "https://github.com/pdotexe/Jcrypt#readme",
+  "bugs": {
+    "url": "https://github.com/pdotexe/Jcrypt/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdotexe/Jcrypt.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "prestigiouss"
+  },
+  "type": "commonjs",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "src/"
+  ],
+  "scripts": {
+    "test": "node test/smoke.js"
+  },
+  "devDependencies": {
+    "express": "^4.21.2"
+  }
+}
