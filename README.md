@@ -1,6 +1,6 @@
 
 
-![Node.js Logo](https://vectorlogo.zone)
+
 
 
 
